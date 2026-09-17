@@ -46,3 +46,8 @@ footer p.copyright{
     text-align: center;
     font-size: 80%;
 }
+
+html {
+    background-image: linear-gradient(bottom, white 0%, #facd8a 100%);
+
+}
