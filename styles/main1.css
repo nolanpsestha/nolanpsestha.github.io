@@ -1,7 +1,22 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
-    margin-left: 10px;   
+    margin-left: 10px;
+    
+    width: 1000px;
+    background-color: white;
+    margin: 15px, auto;
+    padding: 15px, 1.5em;
+    border: 1px, solid black;
+    border-radius: 25px;
+    box-shadow: 5px, 5px, 0, 0;
+    
+    background-image: url(/images/background_silly.jpg);
+    background-position: right;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    
+   
 }
 
 a:focus, a:hover{
@@ -36,6 +51,11 @@ main{
 main h3{
     margin-top: 3em;
     font-size: 105%;
+    margin: 3em, 2em, 1.5em;
+    border: 5px, double blue;
+    border-radius: 20px;
+    box-shadow: 3px, 3px, 4px, 4px, red;
+    padding: 1em;
 }
 
 #list{
@@ -48,20 +68,5 @@ footer p.copyright{
 }
 
 html{
-    background-image: linear-gradient(bottom, white 0%, #facd8a 100%);
-}
-
-body{
-    width: 1000px;
-    background-color: white;
-    margin: 15px, auto;
-    padding: 15px, 1.5em;
-    border: 1px, solid black;
-    border-radius: 25px;
-    box-shadow: 5px, 5px, 0, 0;
-    
-    background-image: url("../images/background_sam-houston-state-university.png");
-    background-position: right;
-    background-repeat: repeat-y;
-    background-attachment: fixed;
+    background-image: linear-gradient(to bottom, white 0%, #facd8a 100%);
 }
