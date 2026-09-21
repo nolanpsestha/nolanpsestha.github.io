@@ -47,6 +47,21 @@ footer p.copyright{
     font-size: 80%;
 }
 
-html {
+html{
     background-image: linear-gradient(bottom, white 0%, #facd8a 100%);
+}
+
+body{
+    width: 1000px;
+    background-color: white;
+    margin: 15px, auto;
+    padding: 15px, 1.5em;
+    border: 1px, solid black;
+    border-radius: 25px;
+    box-shadow: 5px, 5px, 0, 0;
+    
+    background-image: url("../images/background_sam-houston-state-university.png");
+    background-position: right;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
 }
