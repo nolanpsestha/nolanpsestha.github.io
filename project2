@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 2</title>
+</head>
+
+<body>
+    <header>
+        <img src="/images/silly.jpg" alt="silly" height="100">
+        <h1 class="shadow">Welcome to my web site!</h1>
+        <h2 class="shadow">nolanpsestha.github.io</h2>
+    </header>
+    
+    <article>
+        <h3>MGIS 3320: Web Site Development Project</h3>
+        <img src="images/heh.png" alt="heh" height="100">
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio laborum praesentium consequatur saepe nihil, neque quae perspiciatis nesciunt mollitia dolorem totam accusamus. Esse non labore omnis repellat eius, enim beatae.</p>
+    </article>
+
+    <aside>
+        <h4>References</h4>
+        <ol>
+            <li><a href="https://www.bing.com/?FORM=Z9FD1">bing</a> </li>
+            <li><a href=""></a>website 2</li>
+            <li><a href=""></a>website 3</li>
+        </ol>
+        <a href="index.html">return to home home page</a>
+    </aside>
+
+    <footer>
+        <p>&copy;Nolan Sestha</p>
+        <p class="fixed">Contact me at nps006@shsu.edu</p>
+    </footer>
+
+</body>
+</html>
