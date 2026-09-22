@@ -11,8 +11,9 @@
         <img src="/images/silly.jpg" alt="silly" height="100">
         <h1 class="shadow">Welcome to my web site!</h1>
         <h2 class="shadow">nolanpsestha.github.io</h2>
+        <link rel="stylesheet" href="styles/project2.css">
     </header>
-    
+
     <article>
         <h3>MGIS 3320: Web Site Development Project</h3>
         <img src="images/heh.png" alt="heh" height="100">
