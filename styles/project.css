@@ -78,3 +78,9 @@ article p::first-letter{
     font-style: italic;
     color: pink;
 }
+
+aside{
+    width: 20%;
+    float: right;
+    background-color: #ffebc6;
+}
