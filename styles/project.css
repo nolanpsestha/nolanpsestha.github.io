@@ -93,3 +93,7 @@ footer{
     clear: both;
     border-top: 2px solid maroon;
 }
+
+main {
+    border-top: 2px solid maroon;
+}
