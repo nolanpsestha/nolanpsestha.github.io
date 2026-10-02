@@ -85,6 +85,7 @@ aside{
     background-color: #ffebc6;
     padding: 1em;
     border-top: 2px solid maroon;
+    border-top-width: auto;
 }
 
 footer{
