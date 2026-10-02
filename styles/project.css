@@ -84,9 +84,10 @@ aside{
     float: right;
     background-color: #ffebc6;
     padding: 1em;
+    border-top: 2px solid maroon;
 }
 
 footer{
     clear: both;
-    border-top: 2px solid green;
+    border-top: 2px solid maroon;
 }
