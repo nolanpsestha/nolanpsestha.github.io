@@ -2,6 +2,13 @@ html{
     background-image: linear-gradient(to left, white 0%, #facd8a 100%);
 }
 
+main {
+    width: 66%;
+    height: 350px;
+    border-right: 2px solid #800000;
+    float: left;
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
