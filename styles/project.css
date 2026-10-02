@@ -2,11 +2,6 @@ html{
     background-image: linear-gradient(to left, white 0%, #facd8a 100%);
 }
 
-main {
-   
-    
-}
-
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
@@ -60,7 +55,7 @@ article{
     clear: left;
     width: 70%;
     float: left;
-    column-count: 2;
+    column-count: 3;
     column-rule: 2px dotted maroon;
     column-gap: 2em;
     margin-left: 2em;
