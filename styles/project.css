@@ -87,6 +87,6 @@ aside{
 }
 
 footer{
-    clear: ;
+    clear: both;
     border-top: 2px solid green;
 }
