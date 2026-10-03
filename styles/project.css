@@ -30,6 +30,9 @@ a:focus, a:hover{
     border-style: dotted solid;
 }
 
+header{
+    float: none;
+}
 
 header h1{
     font-size: 175%;
