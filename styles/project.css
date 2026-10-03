@@ -31,7 +31,8 @@ a:focus, a:hover{
 }
 
 header{
-    float: none;
+    position: relative;
+    float: left;
 }
 
 header h1{
