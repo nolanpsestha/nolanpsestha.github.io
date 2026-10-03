@@ -31,7 +31,7 @@ a:focus, a:hover{
 }
 
 header{
-    float: left;
+ 
     
 }
 
@@ -52,7 +52,6 @@ header h2{
 img{
     float: left;
     margin-left: 2em;
-    clear: both;
 }
 
 .shadow{
