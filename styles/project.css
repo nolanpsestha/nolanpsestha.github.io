@@ -96,4 +96,5 @@ footer{
 
 body div {
     border-top: 2px solid maroon;
+    clear: both;
 }
