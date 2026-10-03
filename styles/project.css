@@ -32,7 +32,7 @@ a:focus, a:hover{
 
 header{
     position: ;
-    float: none;
+    float: left;
 }
 
 header h1{
