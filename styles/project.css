@@ -31,7 +31,6 @@ a:focus, a:hover{
 }
 
 header{
-    position: ;
     float: left;
 }
 
@@ -39,12 +38,14 @@ header h1{
     font-size: 175%;
     color: maroon;
     text-indent: 30px;
+    clear: left;
 }
 
 header h2{
     font-size: 130%;
     color: #800000;
     text-indent: 30px;
+    clear: left;
 }
 
 img{
