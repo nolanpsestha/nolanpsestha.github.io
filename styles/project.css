@@ -38,7 +38,7 @@ header h1{
     font-size: 175%;
     color: maroon;
     text-indent: 30px;
-    
+    float: right;
     
 }
 
@@ -57,7 +57,7 @@ img{
 
 .shadow{
     text-shadow: 2px 2px 2px rgb(128, 0, 0);
-    float: right;
+    
 }
 
 article{
