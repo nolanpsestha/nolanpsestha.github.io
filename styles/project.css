@@ -38,6 +38,7 @@ header h1{
     font-size: 175%;
     color: maroon;
     text-indent: 30px;
+    float: right;
     
 }
 
@@ -45,11 +46,12 @@ header h2{
     font-size: 130%;
     color: #800000;
     text-indent: 30px;
+    float: right;
     
 }
 
 img{
-    float: left;
+    
     margin-left: 2em;
 }
 
