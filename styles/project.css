@@ -30,16 +30,10 @@ a:focus, a:hover{
     border-style: dotted solid;
 }
 
-.floattest{
-    float: left;
-}
-
 header h1{
     font-size: 175%;
     color: maroon;
     text-indent: 30px;
-    float: right;
-    position: relative;
     
 }
 
@@ -47,14 +41,11 @@ header h2{
     font-size: 130%;
     color: #800000;
     text-indent: 30px;
-    float: right;
-    position: relative;
     
 }
 
-img{
-    
-    margin-left: 2em;
+header img{
+    float: left;
 }
 
 .shadow{
