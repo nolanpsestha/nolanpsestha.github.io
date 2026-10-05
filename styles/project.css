@@ -39,6 +39,7 @@ header h1{
     color: maroon;
     text-indent: 30px;
     float: right;
+    position: relative;
     
 }
 
