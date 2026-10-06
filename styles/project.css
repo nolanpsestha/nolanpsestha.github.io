@@ -103,5 +103,6 @@ body div {
 
 .fix {
     width: auto;
-    position: none;
+    position: relative;
+    margin: 5em 5em 5em 5em;
 }
