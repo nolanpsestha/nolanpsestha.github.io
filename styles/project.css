@@ -103,5 +103,5 @@ body div {
 
 .fix {
     width: auto;
-    
+    position: absolute;
 }
