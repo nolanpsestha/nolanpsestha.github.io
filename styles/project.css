@@ -104,6 +104,8 @@ body div {
 p.fix {
     width: auto;
     position: fixed;
+    border: 2px solid green;
+    background-color: lightgreen;
     right: 0;
     
 }
