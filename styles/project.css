@@ -91,10 +91,10 @@ aside{
     
 }
 
-footer{
+footer div{
     clear: both;
     border-top: 2px solid maroon;
-    column-count: 4;
+    
 }
 
 body div {
