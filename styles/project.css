@@ -91,10 +91,11 @@ aside{
     
 }
 
-footer div{
+footer{
     clear: both;
     border-top: 2px solid maroon;
-    
+    display: inline;
+
 }
 
 body div {
