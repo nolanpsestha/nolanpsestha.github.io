@@ -104,8 +104,10 @@ body div {
 p.fixed {
     width: auto;
     position: fixed;
-    border: 2px solid green;
+    border: 4px solid green;
     background-color: lightgreen;
     right: 0;
+    padding: 24px;
+
     
 }
