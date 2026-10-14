@@ -101,7 +101,7 @@ body div {
     clear: both;
 }
 
-p.fix {
+p.fixed {
     width: auto;
     position: fixed;
     border: 2px solid green;
