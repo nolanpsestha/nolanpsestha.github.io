@@ -104,7 +104,7 @@ footer a{
 }
 
 footer a:last-child{
-    /**/
+    border-right: none;
 }
 
 body div {
