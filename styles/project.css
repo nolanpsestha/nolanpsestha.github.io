@@ -103,6 +103,10 @@ footer a{
     border-right: 1px solid black;
 }
 
+footer #MMIS{
+    border-left: 1px solid black;
+}
+
 footer a:last-child{
     border-right: none;
 }
