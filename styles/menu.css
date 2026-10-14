@@ -14,7 +14,9 @@ border-right: 2px solid white; }
 #nav_menu ul li a.current { color: yellow; }
 
 article h1 {
-    clear: left
+    clear: left;
+    padding: 1em 0 0 0;
+    
 }
 
 aside ol {
