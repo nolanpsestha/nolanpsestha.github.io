@@ -104,7 +104,6 @@ body div {
 p.fix {
     width: auto;
     position: fixed;
-    right: 50px;
-    top: 50px;
+    right: 0;
     
 }
