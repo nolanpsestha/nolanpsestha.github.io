@@ -98,6 +98,15 @@ footer{
 
 }
 
+footer a{
+    padding: 0 5px;
+    border-right: 1px solid black;
+}
+
+footer a:last-child{
+    /**/
+}
+
 body div {
     border-top: 2px solid maroon;
     clear: both;
