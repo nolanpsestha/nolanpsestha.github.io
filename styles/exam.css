@@ -98,3 +98,6 @@ div ul#square{
     list-style-type: square;
 }
 
+div ol#alph{
+    list-style-type: lower-alpha;
+}
