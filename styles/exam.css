@@ -38,7 +38,7 @@ html{
     /*change color to blue */
 }
 
-article{
+main article{
     clear: left;
     width: 70%;
     float: left;
@@ -49,9 +49,14 @@ article{
     
 }
 
+main article h1{
+    float: left;
+}
+
 footer{
     clear: both;
     border-top: 2px solid maroon;
     text-align: center;
 /*change color to green*/
 }
+
