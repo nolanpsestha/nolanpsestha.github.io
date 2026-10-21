@@ -13,6 +13,11 @@ border-right: 2px solid white; }
 #nav_menu ul li a.lastitem { border-right: none; }
 #nav_menu ul li a.current { color: yellow; }
 
+html{
+    background-image: linear-gradient(to bottom, white 0%, #facd8a 100%);
+    /*change color to blue */
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
@@ -33,9 +38,9 @@ body {
    
 }
 
-html{
-    background-image: linear-gradient(to bottom, white 0%, #facd8a 100%);
-    /*change color to blue */
+main{
+    border-top: 2px solid green;
+    /**/
 }
 
 main article{
@@ -43,7 +48,7 @@ main article{
     width: 70%;
     float: left;
     column-count: 3;
-    column-rule: 2em dotted green;
+    column-rule: 1em dotted green;
     column-gap: 2em;
     margin-left: 2em;
     
@@ -55,7 +60,7 @@ main article h1{
 
 footer{
     clear: both;
-    border-top: 2px solid maroon;
+    border-top: 2px solid green;
     text-align: center;
 /*change color to green*/
 }
