@@ -55,7 +55,9 @@ main article{
 }
 
 main article h1{
-    float: left;
+    clear: left;
+    padding: 1em 0 0 0;
+    
 }
 
 footer{
