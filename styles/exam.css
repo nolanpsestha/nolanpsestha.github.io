@@ -43,7 +43,7 @@ main article{
     width: 80%;
     float: left;
     column-count: 3;
-    column-rule: 1em dotted green;
+    column-rule: 14px dotted green;
     column-gap: 2em;
     margin-left: 2em;
     
