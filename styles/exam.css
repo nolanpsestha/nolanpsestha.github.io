@@ -103,3 +103,8 @@ div ul#square{
 div ol#alph{
     list-style-type: lower-alpha;
 }
+
+div ol#return{
+    list-style: none;
+    
+}
