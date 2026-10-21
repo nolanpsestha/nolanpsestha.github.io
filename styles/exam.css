@@ -78,9 +78,9 @@ article p::first-letter{
     color: purple;
 }
 
-h2.gtext{
+article h2.gtext{
     color: green;
-    
+
 }
 
 footer{
