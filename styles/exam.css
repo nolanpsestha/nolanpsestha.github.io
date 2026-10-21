@@ -94,3 +94,7 @@ div ol#roman{
     list-style-type: upper-roman;
 }
 
+div ul#square{
+    list-style-type: square;
+}
+
