@@ -38,11 +38,6 @@ body {
    
 }
 
-main{
-    border-top: 2px solid green;
-    /**/
-}
-
 main article{
     clear: left;
     width: 70%;
