@@ -35,5 +35,16 @@ body {
 
 html{
     background-image: linear-gradient(to bottom, white 0%, #facd8a 100%);
+    /*change color to blue */
+}
+
+article{
+    clear: left;
+    width: 70%;
+    float: left;
+    column-count: 3;
+    column-rule: 2px dotted maroon;
+    column-gap: 2em;
+    margin-left: 2em;
     
 }
