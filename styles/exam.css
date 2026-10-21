@@ -78,6 +78,11 @@ article p::first-letter{
     color: purple;
 }
 
+h2.gtext{
+    color: green;
+    
+}
+
 footer{
     clear: both;
     border-top: 2px solid green;
