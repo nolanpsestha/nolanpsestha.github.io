@@ -70,6 +70,13 @@ div.fixed{
     
 }
 
+article p::first-letter{
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    color: purple;
+}
+
 footer{
     clear: both;
     border-top: 2px solid green;
