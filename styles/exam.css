@@ -38,7 +38,7 @@ body {
    
 }
 
-article{
+main article{
     clear: left;
     width: 80%;
     float: left;
@@ -57,7 +57,7 @@ h1{
 
 }
 
-article img{
+main article img{
     float: left;
 }
 
@@ -80,7 +80,7 @@ article p::first-letter{
     color: purple;
 }
 
-article h2{
+main article h2{
     color: green;
 
 }
