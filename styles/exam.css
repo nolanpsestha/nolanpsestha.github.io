@@ -32,3 +32,8 @@ body {
     background-attachment: fixed;
    
 }
+
+html{
+    background-image: linear-gradient(to bottom, white 0%, #facd8a 100%);
+    
+}
