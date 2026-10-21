@@ -40,7 +40,7 @@ body {
 
 main article{
     clear: left;
-    width: 70%;
+    width: 80%;
     float: left;
     column-count: 3;
     column-rule: 1em dotted green;
