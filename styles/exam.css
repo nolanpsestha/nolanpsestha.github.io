@@ -15,7 +15,7 @@ border-right: 2px solid white; }
 
 html{
     background-image: linear-gradient(to bottom, white 0%, lightblue 100%);
-    /*change color to blue */
+    
 }
 
 body {
@@ -55,10 +55,14 @@ main h1{
 
 }
 
+article img{
+    float: left;
+}
+
 footer{
     clear: both;
     border-top: 2px solid green;
     text-align: center;
-/*change color to green*/
+
 }
 
