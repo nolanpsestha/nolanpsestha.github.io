@@ -14,7 +14,7 @@ border-right: 2px solid white; }
 #nav_menu ul li a.current { color: yellow; }
 
 main nav#nav_menu{
-    border-bottom: solid pink;
+    border-bottom: solid green;
     padding: 0em 0em 4em 0em;
 }
 
