@@ -58,7 +58,7 @@ table.second th, table.second td {
 
     padding: 0.7em;   
 
-    vertical-align: super; 
+    vertical-align: middle; 
 
     border: 2px solid purple; 
 
@@ -69,3 +69,10 @@ table.second thead tr:first-child{
     border-bottom: 2px solid purple; 
 
 } 
+
+/*-----------------------------------------------------------*/
+
+table.third #tbl3mid {
+    verticle-align: middle;
+    
+}
