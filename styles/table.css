@@ -89,6 +89,6 @@ table.third th, table.third td {
 
 } 
 
-table.third tbody tr:first-child{
+table.third tbody td:first-child{
     vertical-align: top;
 }
