@@ -108,5 +108,5 @@ table.third tbody tr:nth-child(6){
 }
 
 table.third tbody td:nth-child(even){
-    vertical-align: middle;
+    text-align: center;
 }
