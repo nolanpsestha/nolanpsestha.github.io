@@ -92,3 +92,7 @@ table.third th, table.third td {
 table.third tbody td:first-child{
     vertical-align: top;
 }
+
+table.third thead tr:first-child{
+    border-top: 2px solid orangered;
+}
