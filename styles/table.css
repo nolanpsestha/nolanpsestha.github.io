@@ -72,7 +72,6 @@ table.second thead tr:first-child{
 
 /*-----------------------------------------------------------*/
 
-table.third thead th#tbl3mid {
-    verticle-align: middle;
-    
+table.third thead{
+    background-color: limegreen;
 }
