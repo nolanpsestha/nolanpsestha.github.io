@@ -82,14 +82,11 @@ table.third th{
 }
 
 table.third th, table.third td { 
-
     padding: 0.5em;   
-
-    vertical-align: middle; 
 
 } 
 
-table.third tbody td:first-child{
+table.third tbody td:nth-child(odd){
     vertical-align: top;
 }
 
