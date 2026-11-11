@@ -107,9 +107,9 @@ table.third tbody tr:nth-child(6){
     border-bottom: 2px solid orangered;
 }
 
-table.third tbody td:nth-child(even){
+/*table.third tbody td:nth-child(even){
     text-align: center;
-}
+}*/
 
 @media only screen and (max-width: 425px) { 
 
