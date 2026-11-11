@@ -107,10 +107,6 @@ table.third tbody tr:nth-child(6){
     border-bottom: 2px solid orangered;
 }
 
-table.third thead th.space1{
-    width: 10%;
-}
-
 @media only screen and (max-width: 425px) { 
 
     th, td { 
