@@ -88,3 +88,7 @@ table.third th, table.third td {
     vertical-align: middle; 
 
 } 
+
+table.third tbody tr:first-child{
+    vertical-align: top;
+}
