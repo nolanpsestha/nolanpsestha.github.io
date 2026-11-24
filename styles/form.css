@@ -86,5 +86,6 @@ textarea {
 
 #submitYM input{
     width: 10em;
-    
+    display: inline-block;
+    text-align: center;
 }
