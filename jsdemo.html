@@ -6,6 +6,7 @@
     <title>Document</title>
 
 </head>
+
 <h1>The Test Scores App</h1>
 <script src="test_scoers.js"></script> <!--pulled from a file-->
 
@@ -24,6 +25,23 @@
         document.write(html2);
 
     </script> <!--can also type it here.-->
+
+<h1>The Rectangle Area Calculator</h1>
+    <script>
+        const width = parseFloat(prompt("Enter width of rectangle"));
+
+        const height = parseFloat(prompt("Enter height of rectangle"));
+
+        const area = parseFloat(width*height);
+
+        const html3 = `<p>Width: ${width}</p>
+        <p>Height: ${height}</p>
+        <p>Area: ${area.toFixed(3)}</p>`;
+
+        document.write(html3);
+
+        
+    </script>
 
 <body>
     
